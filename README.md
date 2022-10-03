@@ -29,7 +29,7 @@ git clone https://github.com/assi-dangomushi/amaBassSimu.git
 ### Compile calcir
 
 cd amaBassSimu  
-git c -d:release --opt:speed calcir.nim
+nim c -d:release --opt:speed calcir.nim
 
 ## Usage
 

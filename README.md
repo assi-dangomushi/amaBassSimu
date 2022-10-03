@@ -19,7 +19,7 @@ sudo apt install octave-signal
 
 ### install choosenim
 
-sudo apt install curl
+sudo apt install curl  
 curl https://nim-lang.org/choosenim/init.sh -sSf | sh
 
 ### install amaBassSimu
@@ -28,7 +28,7 @@ git clone https://github.com/assi-dangomushi/amaBassSimu.git
 
 ### Compile calcir
 
-cd amaBassSimu
+cd amaBassSimu  
 git c -d:release --opt:speed calcir.nim
 
 ## Usage

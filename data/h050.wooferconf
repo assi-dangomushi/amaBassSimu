@@ -1,0 +1,333 @@
+# Created by Octave 6.4.0, Mon Sep 26 21:10:10 2022 JST <kaz@DX-T5>
+# name: g
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 16
+# name: versioNo
+# type: string
+# elements: 1
+# length: 21
+Ama Bass Simu ver0.01
+
+
+# name: refNum
+# type: scalar
+150
+
+
+# name: isMultiMic
+# type: sq_string
+# elements: 1
+# length: 1
+Y
+
+
+# name: spNum
+# type: scalar
+4
+
+
+# name: taMode
+# type: sq_string
+# elements: 1
+# length: 4
+none
+
+
+# name: irFreqs
+# type: matrix
+# rows: 1
+# columns: 3
+ 50 70 100
+
+
+# name: irDuration
+# type: scalar
+5
+
+
+# name: fScale
+# type: sq_string
+# elements: 1
+# length: 6
+linear
+
+
+# name: fRange
+# type: matrix
+# rows: 1
+# columns: 2
+ 1 100
+
+
+# name: dRange
+# type: matrix
+# rows: 1
+# columns: 2
+ -30 25
+
+
+# name: nSmooth
+# type: scalar
+6
+
+
+# name: eqLength
+# type: scalar
+8192
+
+
+# name: fs
+# type: scalar
+96000
+
+
+# name: room
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: width
+# type: scalar
+6.0960000000000001
+
+
+# name: depth
+# type: scalar
+7.3152000000000008
+
+
+# name: hight
+# type: scalar
+2.7432000000000003
+
+
+# name: refLeft
+# type: scalar
+0.94999999999999996
+
+
+# name: refRight
+# type: scalar
+0.94999999999999996
+
+
+# name: refFront
+# type: scalar
+0.94999999999999996
+
+
+# name: refBack
+# type: scalar
+0.94999999999999996
+
+
+# name: refBotom
+# type: scalar
+0.94999999999999996
+
+
+# name: refTop
+# type: scalar
+0.94999999999999996
+
+
+
+
+# name: mic
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: position
+# type: matrix
+# rows: 1
+# columns: 3
+ 3.048 3.6576000000000004 1.1000000000000001
+
+
+# name: area
+# type: scalar
+1.8288000000000002
+
+
+
+
+# name: sp
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: positions
+# type: matrix
+# rows: 50
+# columns: 3
+ 3.0499999999999998 0.40000000000000002 0.40000000000000002
+ 0.40000000000000002 3.5 0.40000000000000002
+ 3.0499999999999998 6.7999999999999998 0.40000000000000002
+ 5.5999999999999996 3.5 0.40000000000000002
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+ 0 0 0
+
+
+# name: gains
+# type: matrix
+# rows: 50
+# columns: 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+
+
+# name: delays
+# type: matrix
+# rows: 50
+# columns: 1
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+
+
+
+
+
+
